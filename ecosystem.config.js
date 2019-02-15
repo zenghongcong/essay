@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: 'essay',
-    script: 'server/index.j',
+    script: 'server/index.js',
     env: {
       COMMON_VARIABLE: 'true'
     },
